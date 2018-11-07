@@ -148,6 +148,7 @@ mouse_middle = none
 mouse_right = none
 mouse_scroll_up = prev_task
 mouse_scroll_down = next_task
+urgent_nb_of_blink = 1
 
 #-------------------------------------
 # System tray (notification area)
